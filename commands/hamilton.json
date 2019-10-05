@@ -1,0 +1,28 @@
+{ 
+    "aliases": [ 
+        "/hamilton"
+    ],
+    "description": "Stuff de Lewis Hamilton",
+    "functionalities": [ 
+        { 
+            "type": "reusable",
+            "name": "queLeHaPasadoAGlock"
+        },
+		{ 
+            "type": "reusable",
+            "name": "seVaFueraHamilton"
+        },
+		{
+			"type": "reusable",
+			"name": "retransmisionElMundial"
+		},
+		{
+			"type": "reusable",
+			"name": "estaOscurisimo"
+		},
+		{ 
+            "type": "reusable",
+            "name": "sanganchao"
+        }
+    ]
+}

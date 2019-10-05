@@ -1,0 +1,12 @@
+{ 
+    "aliases": [ 
+        "/oscurisimo"
+    ],
+    "description": "está oscurisimo",
+    "functionalities": [ 
+        { 
+            "type": "reusable",
+            "name": "estaOscurisimo"
+        }
+    ]
+}

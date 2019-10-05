@@ -1,0 +1,12 @@
+{ 
+    "aliases": [ 
+        "/massa"
+    ],
+    "description": "Stuff de Felipe Massa",
+    "functionalities": [ 
+        { 
+            "type": "reusable",
+            "name": "trompoDeMassa"
+        }
+    ]
+}

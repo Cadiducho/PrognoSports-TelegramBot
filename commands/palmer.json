@@ -1,0 +1,12 @@
+{ 
+    "aliases": [ 
+        "/palmer"
+    ],
+    "description": "Stuff de Joylon",
+    "functionalities": [ 
+        { 
+            "type": "reusable",
+            "name": "karma"
+        }
+    ]
+}

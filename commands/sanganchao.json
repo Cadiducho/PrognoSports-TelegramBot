@@ -1,0 +1,13 @@
+{ 
+    "aliases": [ 
+        "/sanganchao",
+		"/puzolana"
+    ],
+    "description": "sanganchao",
+    "functionalities": [ 
+        { 
+            "type": "reusable",
+            "name": "sanganchao"
+        }
+    ]
+}

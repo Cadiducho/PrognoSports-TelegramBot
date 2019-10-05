@@ -1,0 +1,12 @@
+{ 
+    "aliases": [ 
+        "/karma"
+    ],
+    "description": "Where is Palmer",
+    "functionalities": [ 
+        { 
+            "type": "reusable",
+            "name": "karma"
+        }
+    ]
+}

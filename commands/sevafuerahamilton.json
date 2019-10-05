@@ -1,0 +1,12 @@
+{ 
+    "aliases": [ 
+        "/sevafuerahamilton"
+    ],
+    "description": "se va fuera",
+    "functionalities": [ 
+        { 
+            "type": "reusable",
+            "name": "seVaFueraHamilton"
+        }
+    ]
+}

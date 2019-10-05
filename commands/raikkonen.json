@@ -1,0 +1,12 @@
+{ 
+    "aliases": [ 
+        "/raikkonen"
+    ],
+    "description": "Stuff de Kimi Raikkonen",
+    "functionalities": [ 
+        { 
+            "type": "reusable",
+            "name": "steeringwheel"
+        }
+    ]
+}

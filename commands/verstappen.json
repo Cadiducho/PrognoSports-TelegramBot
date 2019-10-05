@@ -1,0 +1,12 @@
+{ 
+    "aliases": [ 
+        "/verstappen"
+    ],
+    "description": "Stuff de Max Verstappen",
+    "functionalities": [ 
+        { 
+            "type": "reusable",
+            "name": "verstappenGotDamaged"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{ 
+    "aliases": [ 
+        "/vettel"
+    ],
+    "description": "Stuff de Sebastian Vettel",
+    "functionalities": [ 
+        { 
+            "type": "reusable",
+            "name": "retransmisionElMundial"
+        }
+    ]
+}

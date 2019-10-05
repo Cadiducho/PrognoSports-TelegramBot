@@ -1,0 +1,12 @@
+{ 
+    "aliases": [ 
+        "/steeringwheel"
+    ],
+    "description": "Glaves and Steering Wheel",
+    "functionalities": [ 
+        { 
+            "type": "reusable",
+            "name": "steeringwheel"
+        }
+    ]
+}

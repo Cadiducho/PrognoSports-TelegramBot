@@ -1,0 +1,13 @@
+{ 
+    "aliases": [ 
+        "/gp2",
+		"/gp2engine"
+    ],
+    "description": "GP2 Engine",
+    "functionalities": [ 
+        { 
+            "type": "reusable",
+            "name": "gp2engine"
+        }
+    ]
+}
