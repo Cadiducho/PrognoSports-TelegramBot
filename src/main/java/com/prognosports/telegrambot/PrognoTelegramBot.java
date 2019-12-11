@@ -2,6 +2,7 @@ package com.prognosports.telegrambot;
 
 import com.cadiducho.zincite.ZinciteBot;
 import com.cadiducho.zincite.modules.json.JsonModule;
+import com.cadiducho.zincite.modules.messageid.MessageIdModule;
 import org.apache.commons.cli.*;
 
 public class PrognoTelegramBot {
@@ -38,6 +39,7 @@ public class PrognoTelegramBot {
         ZinciteBot prognoSportsBot = new ZinciteBot(commandLine.getOptionValue("token"), ownerId, VERSION);
 
         prognoSportsBot.getModuleManager().registerModule(new JsonModule());
+        prognoSportsBot.getModuleManager().registerModule(new MessageIdModule());
 
         prognoSportsBot.startServer();
     }
