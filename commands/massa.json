@@ -1,12 +1,16 @@
-{ 
-    "aliases": [ 
+{
+    "aliases": [
         "/massa"
     ],
     "description": "Stuff de Felipe Massa",
-    "functionalities": [ 
-        { 
+    "functionalities": [
+        {
             "type": "reusable",
             "name": "trompoDeMassa"
+        },
+        {
+            "type": "reusable",
+            "name": "fernandoIsFaster"
         }
     ]
 }

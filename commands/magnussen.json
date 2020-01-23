@@ -1,0 +1,12 @@
+{
+    "aliases": [
+        "/magnussen"
+    ],
+    "description": "Stuff de Kevin Magnussen",
+    "functionalities": [
+        {
+            "type": "voice",
+            "voice_id": "AwADBAADpAcAAijISFEl1czGAcgAATcWBA"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "aliases": [
+        "/leclerc",
+        "/charlesleclerc"
+    ],
+    "description": "Stuff de Charles Leclerc",
+    "functionalities": [
+        {
+            "type": "reusable",
+            "name": "leclercStupid"
+        }
+    ]
+}

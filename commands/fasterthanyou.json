@@ -1,0 +1,14 @@
+{ 
+    "aliases": [ 
+        "/fernandoisfaster", 
+		"/fernandoisfasterthanyou", 
+		"/fasterthanyou"
+    ],
+    "description": "Fernando is faster than you",
+    "functionalities": [ 
+        { 
+            "type": "reusable",
+            "name": "fernandoIsFaster"
+        }
+    ]
+}

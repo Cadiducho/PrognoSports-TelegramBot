@@ -1,0 +1,17 @@
+{
+    "aliases": [
+        "/bottas",
+        "/valtteribottas"
+    ],
+    "description": "Comandos sobre Valtteri Bottas",
+    "functionalities": [
+        {
+            "type": "reusable",
+            "name": "jamesitsvaltteri"
+        },
+        {
+            "type": "reusable",
+            "name": "valtteriitsjames"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "aliases": [
+        "/areyoucriying",
+        "/areyoucriyin"
+    ],
+    "description": "Are you criying???",
+    "functionalities": [
+        {
+            "type": "reusable",
+            "name": "areyoucriying"
+        }
+    ]
+}

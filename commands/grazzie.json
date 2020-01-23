@@ -1,0 +1,14 @@
+{
+    "aliases": [
+        "/adrenalina",
+        "/grazzie",
+        "/grazzieragazzi"
+    ],
+    "description": "Grazzie Raggazzi",
+    "functionalities": [
+        {
+            "type": "reusable",
+            "name": "vettelGrazzie"
+        }
+    ]
+}

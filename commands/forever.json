@@ -1,13 +1,12 @@
 {
     "aliases": [
-        "/sanganchao",
-        "/puzolana"
+        "/forever"
     ],
-    "description": "sanganchao",
+    "description": "You mean like, forever?",
     "functionalities": [
         {
             "type": "reusable",
-            "name": "sanganchao"
+            "name": "forever"
         }
     ]
 }

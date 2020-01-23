@@ -1,13 +1,12 @@
 {
     "aliases": [
-        "/sanganchao",
-        "/puzolana"
+        "/wet"
     ],
-    "description": "sanganchao",
+    "description": "Fuckin' wet",
     "functionalities": [
         {
             "type": "reusable",
-            "name": "sanganchao"
+            "name": "landowet"
         }
     ]
 }

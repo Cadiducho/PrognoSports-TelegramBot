@@ -1,12 +1,24 @@
-{ 
-    "aliases": [ 
+{
+    "aliases": [
         "/vettel"
     ],
     "description": "Stuff de Sebastian Vettel",
-    "functionalities": [ 
-        { 
+    "functionalities": [
+        {
             "type": "reusable",
             "name": "retransmisionElMundial"
+        },
+        {
+            "type": "reusable",
+            "name": "blueflag"
+        },
+        {
+            "type": "reusable",
+            "name": "meingott"
+        },
+        {
+            "type": "reusable",
+            "name": "vettelGrazzie"
         }
     ]
 }

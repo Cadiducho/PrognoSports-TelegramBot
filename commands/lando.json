@@ -1,0 +1,31 @@
+{
+    "aliases": [
+        "/lando",
+        "/norris",
+        "/landonorris"
+    ],
+    "description": "Comandos sobre Lando Norris",
+    "functionalities": [
+        {
+            "type": "gif",
+            "gif_id": "CgADBAADsgEAAgV7RVN-BvhXGwQlqBYE",
+            "reply_to": "none"
+        },
+        {
+            "type": "reusable",
+            "name": "forever"
+        },
+        {
+            "type": "reusable",
+            "name": "landowet"
+        },
+        {
+            "type": "reusable",
+            "name": "rollerCoaster"
+        },
+        {
+            "type": "reusable",
+            "name": "areyoucriying"
+        }
+    ]
+}

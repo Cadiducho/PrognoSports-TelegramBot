@@ -1,10 +1,10 @@
-{ 
-    "aliases": [ 
+{
+    "aliases": [
         "/engine"
     ],
     "description": "The engine feels good",
-    "functionalities": [ 
-        { 
+    "functionalities": [
+        {
             "type": "reusable",
             "name": "theEngineFeelsGood"
         }

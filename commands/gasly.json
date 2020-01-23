@@ -1,13 +1,12 @@
 {
     "aliases": [
-        "/sanganchao",
-        "/puzolana"
+        "/gasly"
     ],
-    "description": "sanganchao",
+    "description": "Stuff de Pierre Gasly",
     "functionalities": [
         {
             "type": "reusable",
-            "name": "sanganchao"
+            "name": "whooGasly"
         }
     ]
 }

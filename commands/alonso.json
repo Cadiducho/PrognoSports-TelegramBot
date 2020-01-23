@@ -1,24 +1,32 @@
-{ 
-    "aliases": [ 
+{
+    "aliases": [
         "/alonso"
     ],
     "description": "Stuff de Fernando Alonso",
-    "functionalities": [ 
-        { 
+    "functionalities": [
+        {
             "type": "reusable",
             "name": "theEngineFeelsGood"
         },
-		{ 
+        {
             "type": "reusable",
             "name": "karma"
         },
-		{ 
+        {
             "type": "reusable",
             "name": "gp2engine"
         },
-		{ 
+        {
             "type": "reusable",
             "name": "alonsoLeaveSpace"
+        },
+        {
+            "type": "reusable",
+            "name": "alonsoAyayay"
+        },
+        {
+            "type": "reusable",
+            "name": "fernandoIsFaster"
         }
     ]
 }

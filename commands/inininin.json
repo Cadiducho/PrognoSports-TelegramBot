@@ -1,0 +1,15 @@
+{
+    "aliases": [
+        "/boxbox",
+        "/ininin",
+        "/inininin",
+        "/ininininin"
+    ],
+    "description": "box box, box, inininininin",
+    "functionalities": [
+        {
+            "type": "reusable",
+            "name": "inininin"
+        }
+    ]
+}

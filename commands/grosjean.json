@@ -1,13 +1,12 @@
 {
     "aliases": [
-        "/sanganchao",
-        "/puzolana"
+        "/grosjean"
     ],
-    "description": "sanganchao",
+    "description": "Stuff de Grosjean",
     "functionalities": [
         {
             "type": "reusable",
-            "name": "sanganchao"
+            "name": "ericcsonHitUs"
         }
     ]
 }

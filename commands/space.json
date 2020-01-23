@@ -1,11 +1,11 @@
-{ 
-    "aliases": [ 
-		"/space",
+{
+    "aliases": [
+        "/space",
         "/leavespace"
     ],
     "description": "ALL THE TIME YOU HAVE TO LEAVE SPACE",
-    "functionalities": [ 
-        { 
+    "functionalities": [
+        {
             "type": "reusable",
             "name": "alonsoLeaveSpace"
         }

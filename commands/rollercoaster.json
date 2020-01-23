@@ -1,13 +1,12 @@
 {
     "aliases": [
-        "/sanganchao",
-        "/puzolana"
+        "/rollercoaster"
     ],
-    "description": "sanganchao",
+    "description": "I'm moving up and down",
     "functionalities": [
         {
             "type": "reusable",
-            "name": "sanganchao"
+            "name": "rollerCoaster"
         }
     ]
 }

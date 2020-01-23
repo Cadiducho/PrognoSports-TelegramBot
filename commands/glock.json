@@ -1,10 +1,10 @@
-{ 
-    "aliases": [ 
+{
+    "aliases": [
         "/glock"
     ],
     "description": "Stuff de Timo Glock",
-    "functionalities": [ 
-        { 
+    "functionalities": [
+        {
             "type": "reusable",
             "name": "queLeHaPasadoAGlock"
         }

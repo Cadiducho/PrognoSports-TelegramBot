@@ -1,13 +1,12 @@
 {
     "aliases": [
-        "/sanganchao",
-        "/puzolana"
+        "/blueflag"
     ],
-    "description": "sanganchao",
+    "description": "Bluuuee flag",
     "functionalities": [
         {
             "type": "reusable",
-            "name": "sanganchao"
+            "name": "blueflag"
         }
     ]
 }

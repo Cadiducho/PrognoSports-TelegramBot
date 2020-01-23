@@ -1,10 +1,10 @@
-{ 
-    "aliases": [ 
+{
+    "aliases": [
         "/mundial"
     ],
     "description": "el mundial",
-    "functionalities": [ 
-        { 
+    "functionalities": [
+        {
             "type": "reusable",
             "name": "retransmisionElMundial"
         }

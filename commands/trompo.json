@@ -1,0 +1,13 @@
+{
+    "aliases": [
+        "/trompo",
+        "/trompodemassa"
+    ],
+    "description": "el cuarto",
+    "functionalities": [
+        {
+            "type": "reusable",
+            "name": "trompoDeMassa"
+        }
+    ]
+}

@@ -1,10 +1,10 @@
-{ 
-    "aliases": [ 
+{
+    "aliases": [
         "/palmer"
     ],
-    "description": "Stuff de Joylon",
-    "functionalities": [ 
-        { 
+    "description": "Stuff de Joylon Palmer",
+    "functionalities": [
+        {
             "type": "reusable",
             "name": "karma"
         }
